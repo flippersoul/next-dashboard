@@ -1,0 +1,92 @@
+[
+  {
+    "Email": "ivan.petrov@company.local",
+    "MailAddressCredential": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiaXZhbi5wZXRyb3ZAY29tcGFueS5sb2NhbCIsImFkZHJlc3NfaWQiOjEwMDAxfQ.abcdef1234567890",
+    "RegistrationDate": "2025-09-01",
+    "AutoLoginEmailLink": "https://mail.company.local/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiaXZhbi5wZXRyb3ZAY29tcGFueS5sb2NhbCIsImFkZHJlc3NfaWQiOjEwMDAxfQ.abcdef1234567890",
+    "Availability": true,
+    "Warranty": "",
+    "Service": "Backend"
+  },
+  {
+    "Email": "anna.smirnova@company.local",
+    "MailAddressCredential": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiYW5uYS5zbWlybm92YUBjb21wYW55LmxvY2FsIiwiYWRkcmVzc19pZCI6MTAwMDJ9.XYZ123abc456",
+    "RegistrationDate": "2025-09-03",
+    "AutoLoginEmailLink": "https://mail.company.local/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiYW5uYS5zbWlybm92YUBjb21wYW55LmxvY2FsIiwiYWRkcmVzc19pZCI6MTAwMDJ9.XYZ123abc456",
+    "Availability": true,
+    "Warranty": "",
+    "Service": "Frontend"
+  },
+  {
+    "Email": "dmitry.ivanov@company.local",
+    "MailAddressCredential": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiZG1pdHJ5Lml2YW5vdkBjb21wYW55LmxvY2FsIiwiYWRkcmVzc19pZCI6MTAwMDN9.QWERTY987654",
+    "RegistrationDate": "2025-09-05",
+    "AutoLoginEmailLink": "https://mail.company.local/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiZG1pdHJ5Lml2YW5vdkBjb21wYW55LmxvY2FsIiwiYWRkcmVzc19pZCI6MTAwMDN9.QWERTY987654",
+    "Availability": true,
+    "Warranty": "",
+    "Service": "DevOps"
+  },
+  {
+    "Email": "olga.kuznetsova@company.local",
+    "MailAddressCredential": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoib2xnYS5rdXpuZXRzb3ZhQGNvbXBhbnkubG9jYWwiLCJhZGRyZXNzX2lkIjoxMDAwNH0.ABC987XYZ654",
+    "RegistrationDate": "2025-09-06",
+    "AutoLoginEmailLink": "https://mail.company.local/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoib2xnYS5rdXpuZXRzb3ZhQGNvbXBhbnkubG9jYWwiLCJhZGRyZXNzX2lkIjoxMDAwNH0.ABC987XYZ654",
+    "Availability": true,
+    "Warranty": "",
+    "Service": "QA"
+  },
+  {
+    "Email": "sergey.volkov@company.local",
+    "MailAddressCredential": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoic2VyZ2V5LnZvbGtvdkBjb21wYW55LmxvY2FsIiwiYWRkcmVzc19pZCI6MTAwMDV9.123abc456DEF",
+    "RegistrationDate": "2025-09-07",
+    "AutoLoginEmailLink": "https://mail.company.local/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoic2VyZ2V5LnZvbGtvdkBjb21wYW55LmxvY2FsIiwiYWRkcmVzc19pZCI6MTAwMDV9.123abc456DEF",
+    "Availability": true,
+    "Warranty": "",
+    "Service": "Security"
+  },
+  {
+    "Email": "maria.fedorova@company.local",
+    "MailAddressCredential": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoibWFyaWEuZmVkb3JvdmFAY29tcGFueS5sb2NhbCIsImFkZHJlc3NfaWQiOjEwMDA2fQ.456DEF789ghi",
+    "RegistrationDate": "2025-09-08",
+    "AutoLoginEmailLink": "https://mail.company.local/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoibWFyaWEuZmVkb3JvdmFAY29tcGFueS5sb2NhbCIsImFkZHJlc3NfaWQiOjEwMDA2fQ.456DEF789ghi",
+    "Availability": true,
+    "Warranty": "",
+    "Service": "HR Tech"
+  },
+  {
+    "Email": "alexey.sokolov@company.local",
+    "MailAddressCredential": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiYWxleGV5LnNva29sb3ZAY29tcGFueS5sb2NhbCIsImFkZHJlc3NfaWQiOjEwMDA3fQ.ZYX987CBA654",
+    "RegistrationDate": "2025-09-10",
+    "AutoLoginEmailLink": "https://mail.company.local/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiYWxleGV5LnNva29sb3ZAY29tcGFueS5sb2NhbCIsImFkZHJlc3NfaWQiOjEwMDA3fQ.ZYX987CBA654",
+    "Availability": true,
+    "Warranty": "",
+    "Service": "Backend"
+  },
+  {
+    "Email": "ekaterina.popova@company.local",
+    "MailAddressCredential": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiZWthdGVyaW5hLnBvcG92YUBjb21wYW55LmxvY2FsIiwiYWRkcmVzc19pZCI6MTAwMDh9.ABC123XYZ789",
+    "RegistrationDate": "2025-09-12",
+    "AutoLoginEmailLink": "https://mail.company.local/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiZWthdGVyaW5hLnBvcG92YUBjb21wYW55LmxvY2FsIiwiYWRkcmVzc19pZCI6MTAwMDh9.ABC123XYZ789",
+    "Availability": true,
+    "Warranty": "",
+    "Service": "Frontend"
+  },
+  {
+    "Email": "nikita.lebedev@company.local",
+    "MailAddressCredential": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoibmlraXRhLmxlYmVkZXYAY29tcGFueS5sb2NhbCIsImFkZHJlc3NfaWQiOjEwMDA5fQ.987ZYX654CBA",
+    "RegistrationDate": "2025-09-14",
+    "AutoLoginEmailLink": "https://mail.company.local/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoibmlraXRhLmxlYmVkZXYAY29tcGFueS5sb2NhbCIsImFkZHJlc3NfaWQiOjEwMDA5fQ.987ZYX654CBA",
+    "Availability": true,
+    "Warranty": "",
+    "Service": "Mobile"
+  },
+  {
+    "Email": "irina.kozlova@company.local",
+    "MailAddressCredential": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiaXJpbmEua29zbG92YUBjb21wYW55LmxvY2FsIiwiYWRkcmVzc19pZCI6MTAwMTAyfQ.abc123DEF456",
+    "RegistrationDate": "2025-09-15",
+    "AutoLoginEmailLink": "https://mail.company.local/?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiaXJpbmEua29zbG92YUBjb21wYW55LmxvY2FsIiwiYWRkcmVzc19pZCI6MTAwMTAyfQ.abc123DEF456",
+    "Availability": true,
+    "Warranty": "",
+    "Service": "QA"
+  }
+]
